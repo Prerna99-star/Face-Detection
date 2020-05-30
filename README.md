@@ -1,2 +1,2 @@
-# Face-Detection
-Usinf OpenCV and python 
+# Face-Detector
+Using OpenCV and python 
